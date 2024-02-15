@@ -1,6 +1,6 @@
 {
-	"author": "Gigena Mariano",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Gigena Mariano",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
